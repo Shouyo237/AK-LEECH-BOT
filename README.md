@@ -21,7 +21,7 @@
     ✓ Changing rclone destination config on fly (By using `/rlcone` in private mode)
     ✓
 
-![AK-BOTZ](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/AKLEECHZONE) 👇
+[![AK-BOTZ](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/AKLEECHZONE) 👇
 
 ##### Mandatory Variables
 
