@@ -1,6 +1,6 @@
-(https://telegra.ph/file/af8f0596124714a17e4e2.png)
+![AK LEECH](https://telegra.ph/file/af8f0596124714a17e4e2.png)
 
-(https://telegra.ph/file/d18fa7fa33f26f733adb9.png)
+![AK-BOTZ](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)
 
 # Benefits :-
     ✓ Google Drive link cloning using gclone.(wip)
@@ -21,7 +21,7 @@
     ✓ Changing rclone destination config on fly (By using `/rlcone` in private mode)
     ✓
 
-(https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/AKLEECHZONE) 👇
+![AK-BOTZ](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/AKLEECHZONE) 👇
 
 ##### Mandatory Variables
 
@@ -102,7 +102,7 @@
 
 * `DESTINATION_FOLDER`: Name of your folder in ur respective drive where you want to upload the files using the bot.
 
-[![Maxx](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/AKLEECHZONE)
+[![AK-BOTZ](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/AKLEECHZONE)
 
 🔴 <b> Currently Support HEORKO . But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
 
